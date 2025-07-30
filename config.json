@@ -85,5 +85,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+     "yazhou": {
+      "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod",
+      "name": "亚洲成人在线"
+    }
+    
   }
 }
