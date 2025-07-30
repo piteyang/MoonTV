@@ -92,6 +92,10 @@
     "91": {
       "api": "https://91md.me/api.php/provide/vod/",
       "name": "91麻豆"
+    },
+    "ribei": {
+      "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod",
+      "name": "日本AV在线"
     }
   }
 }
